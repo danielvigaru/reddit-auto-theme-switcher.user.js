@@ -1,11 +1,11 @@
 // ==UserScript==
-// @downloadURL     https://github.com/danielvigaru/reddit-auto-theme-switcher.user.js/raw/main/reddit-auto-theme-switcher.user.js
+// @downloadURL     https://github.com/danielvigaru/reddit-auto-theme-switcher.user.js/raw/master/reddit-auto-theme-switcher.user.js
 // @grant           none
 // @icon            https://www.reddit.com/favicon.ico
 // @license         MIT
 // @match           https://www.reddit.com/
 // @name            Reddit auto theme switcher
-// @updateURL       https://github.com/danielvigaru/reddit-auto-theme-switcher.user.js/raw/main/reddit-auto-theme-switcher.user.js
+// @updateURL       https://github.com/danielvigaru/reddit-auto-theme-switcher.user.js/raw/master/reddit-auto-theme-switcher.user.js
 // @version         1.0
 // ==/UserScript==
 
