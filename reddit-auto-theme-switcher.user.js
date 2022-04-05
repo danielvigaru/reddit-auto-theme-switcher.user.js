@@ -3,10 +3,10 @@
 // @grant           none
 // @icon            https://www.reddit.com/favicon.ico
 // @license         MIT
-// @match           https://www.reddit.com/
+// @match           https://www.reddit.com/*
 // @name            Reddit auto theme switcher
 // @updateURL       https://github.com/danielvigaru/reddit-auto-theme-switcher.user.js/raw/master/reddit-auto-theme-switcher.user.js
-// @version         1.0
+// @version         1.0.1
 // ==/UserScript==
 
 function isLightTheme() {
